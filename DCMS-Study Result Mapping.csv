@@ -1,0 +1,44 @@
+Camera,No default passwords,Implement a vulnerability disclosure policy,Keep software updated,Securely store credentials and security-sensitive data,Communicate securely,Minimise exposed attack surfaces,Ensure software integrity,Ensure that personal data is protected,Make systems resilient to outages,Monitor system telemetry data,Make it easy for consumers to delete personal data,Make installation and maintenance of devices easy,Validate input data,Total Pass,Total Fail,Grand Total,% Pass,% Fail
+Conico,Pass,Fail,Pass,Pass,Fail,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,6,3,9,67%,33%
+Pambrum,Fail,Fail,Fail,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,2,7,9,22%,78%
+Eversecu,Fail,Fail,Pass,Pass,Pass,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,6,3,9,67%,33%
+Camakt,Pass,Fail,Pass,Pass,Pass,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+Akaso,Pass,Fail,Pass,Pass,Fail,Pass,Pass,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+DCT,Pass,Fail,Pass,Pass,Pass,Pass,Pass,OOS,OOS,OOS,Fail,Pass,OOS,7,2,9,78%,22%
+VicZone,Fail,Fail,Fail,Fail,Fail,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,3,6,9,33%,67%
+WOHOME,Pass,Fail,Pass,Pass,Pass,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+Feit Electric,Fail,Fail,Pass,Fail,Pass,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,5,4,9,56%,44%
+StartVision,Pass,Fail,Pass,Pass,Pass,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+Moonxiao,Fail,Fail,Fail,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,2,7,9,22%,78%
+LaView,Fail,Fail,Pass,Fail,Pass,Pass,Pass,OOS,OOS,OOS,Fail,Pass,OOS,5,4,9,56%,44%
+Ecobee,Pass,Pass,Pass,Pass,Fail,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+Reolink,Fail,Fail,Fail,Fail,Pass,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,3,6,9,33%,67%
+Eufy,Pass,Pass,Fail,Pass,Pass,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+HeimVision,Fail,Fail,Pass,Fail,Fail,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,4,5,9,44%,56%
+Aqara,Fail,Fail,Pass,Fail,Fail,Pass,Fail,OOS,OOS,OOS,Fail,Pass,OOS,3,6,9,33%,67%
+Sense-U,Fail,Fail,Fail,Fail,Pass,Pass,Pass,OOS,OOS,OOS,Fail,Pass,OOS,4,5,9,44%,56%
+Mascarry,Fail,Fail,Pass,Fail,Fail,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,4,5,9,44%,56%
+Anbes,Pass,Fail,Fail,Pass,Fail,Pass,Pass,OOS,OOS,OOS,Pass,Pass,OOS,6,3,9,67%,33%
+Victure,Pass,Fail,Fail,Pass,Fail,Pass,Pass,OOS,OOS,OOS,Fail,Pass,OOS,5,4,9,56%,44%
+Euarne,Pass,Fail,Fail,Pass,Pass,Fail,Pass,OOS,OOS,OOS,Fail,Pass,OOS,5,4,9,56%,44%
+Ecwey,Fail,Fail,Fail,Fail,Fail,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,3,6,9,33%,67%
+Energizer,Fail,Fail,Pass,Fail,Fail,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,4,5,9,44%,56%
+Wuuk,Fail,Fail,Pass,Fail,Pass,Pass,Pass,OOS,OOS,OOS,Pass,Pass,OOS,6,3,9,67%,33%
+TP-Link,Fail,Pass,Pass,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,4,5,9,44%,56%
+Vacos,Pass,Fail,Fail,Pass,Pass,Fail,Pass,OOS,OOS,OOS,Fail,Pass,OOS,5,4,9,56%,44%
+Jennov,Fail,Fail,Fail,Fail,Fail,Pass,Fail,OOS,OOS,OOS,Fail,Pass,OOS,2,7,9,22%,78%
+Anran,Fail,Fail,Fail,Fail,Fail,Pass,Fail,OOS,OOS,OOS,Fail,Pass,OOS,2,7,9,22%,78%
+Kami Baby,Fail,Fail,Pass,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,3,6,9,33%,67%
+Motorola,Pass,Pass,Fail,Pass,Fail,Pass,Fail,OOS,OOS,OOS,Pass,Pass,OOS,6,3,9,67%,33%
+VTech,Fail,Fail,Fail,Fail,Pass,Fail,Fail,OOS,OOS,OOS,Fail,Pass,OOS,2,7,9,22%,78%
+CellBee,Fail,Fail,Fail,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Fail,Pass,OOS,1,8,9,11%,89%
+iSmartPet,Fail,Fail,Fail,Fail,Fail,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,3,6,9,33%,67%
+Didog,Fail,Fail,Fail,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Pass,Pass,OOS,2,7,9,22%,78%
+HONGSA,Fail,Fail,Fail,Fail,Fail,Fail,Fail,OOS,OOS,OOS,Fail,Pass,OOS,1,8,9,11%,89%
+IOIODOG,Fail,Fail,Pass,Fail,Pass,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,5,4,9,56%,44%
+Swept Supplies,Fail,Fail,Fail,Pass,Fail,Fail,Pass,OOS,OOS,OOS,Pass,Pass,OOS,4,5,9,44%,56%
+Amcrest,Pass,Fail,Pass,Pass,Fail,Pass,Pass,OOS,OOS,OOS,Pass,Pass,OOS,7,2,9,78%,22%
+Sekoya,Fail,Fail,Pass,Fail,Fail,Fail,Pass,OOS,OOS,OOS,Fail,Pass,OOS,3,6,9,33%,67%
+Total Pass,14,4,20,16,15,19,20,0,0,0,27,40,0,175,185,360,,
+Total Fail,26,36,20,24,25,21,20,0,0,0,13,0,0,49%,51%,,,
+Grand Total,40,40,40,40,40,40,40,0,0,0,40,40,0,,,,,
