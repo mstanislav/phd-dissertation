@@ -13,3 +13,15 @@ This repository offers artifacts and data relevant to the [Ph.D. in Cyber Operat
 * **ETSI-Test Criteria Mapping.md:** A mapping of testing criteria against ETSI controls that can be checked against the _Study Data_ results that will yield a _Pass_ or _Fail_ outcome. Some controls are out-of-scope and marked as such with _OOS_.
 * **ETSI-Study Result Mapping.csv:** Device outcomes for ETSI control testing including statistical roll-up details.
 * **Cameras:** A folder that contains folders for each assessed camera, containing internal, external, & packaging photos, along with any discovered digital user manual for the device.
+
+## License
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
