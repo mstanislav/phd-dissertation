@@ -15,7 +15,7 @@ This repository offers artifacts and data relevant to the [Ph.D. in Cyber Operat
 |**DCMS-Result Mapping.csv**|Device outcomes for DCMS control testing including statistical roll-up details.|
 |**ETSI-Test Criteria Mapping.md**|A mapping of testing criteria against ETSI controls that can be checked against the _Study Data_ results that will yield a _Pass_ or _Fail_ outcome. Some controls are out-of-scope and marked as such with _OOS_.|
 |**ETSI-Result Mapping.csv**|Device outcomes for ETSI control testing including statistical roll-up details.|
-|**Cameras:**|A folder that contains folders for each assessed camera containing internal, external, & packaging photos, along with any digital user manuals.|
+|**Cameras**|A folder that contains folders for each assessed camera containing internal, external, & packaging photos, along with any digital user manuals.|
 
 ## License
 With exception for files that may be included within this repository for archival completeness, but are not an original work by the author (e.g., user manuals, FCC photos), the work presented within this repository is licensed under a
