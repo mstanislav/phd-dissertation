@@ -15,5 +15,12 @@ This repository offers artifacts and data relevant to the [Ph.D. in Cyber Operat
 * **Cameras:** A folder that contains folders for each assessed camera, containing internal, external, & packaging photos, along with any discovered digital user manual for the device.
 
 ## License
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa] except for files (e.g., user manuals, FCC photos) that may be presented within this repository but are not the original work of the author.
+With exception for files that may be included within this repository for archival completeness, but are not an original work by the author (e.g., user manuals, FCC photos), the work presented within this repository is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
