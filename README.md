@@ -5,7 +5,8 @@ This repository offers artifacts and data relevant to the [Ph.D. in Cyber Operat
 ## Repository Contents
 |Path|Description|
 |-|-|
-|**Proposal-Presentation.pdf**| The slide deck used for this dissertation's proposal defense slide deck that occurred during March, 2021, and explains the context, literature review, goals, and study plan that was conducted over the following year.|
+|**Defense-Presentation.pdf**| This slide deck was used for this dissertation's final defense that occurred during March, 2022.|
+|**Proposal-Presentation.pdf**| This slide deck was used for the dissertation's proposal defense that occurred during March, 2021, and explains the context, literature review, goals, and plan.|
 |**Assessment Tracking-Test Coverage.md**|An association the study's assessment needs with testing criteria to yield results, with a rollup of the number of controls that each entry would satisfy from the original input IoT frameworks that acted as inspiration for the data to gather during the study.|
 |**Study Data.{csv,json,xlsx}**|Organized data that was captured during the study's sample device analysis, which serves at the basis for IoT security framework mapping inputs. This data set is presented in three formats to allow future researchers to more easily interact with it for their own analysis/interests.|
 |**Camera Credentials.md**|Credentials that were found within vendor documentation or during the analysis of firmware during the study's research. While some credentials have a password provided, many of the entries only provide the password hash since it was unable to be found online or readily cracked in a timely/low cost manner.|
