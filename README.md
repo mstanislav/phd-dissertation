@@ -5,6 +5,7 @@ This repository offers artifacts and data relevant to the [Ph.D. in Cyber Operat
 ## Repository Contents
 |Path|Description|
 |-|-|
+|**Dissertation.pdf**| The dissertation titled _Multi-dimensional Security Integrity Analysis of Broad Market Internet-connected Cameras_.|
 |**Defense-Presentation.pdf**| This slide deck was used for this dissertation's final defense that occurred during March, 2022.|
 |**Proposal-Presentation.pdf**| This slide deck was used for the dissertation's proposal defense that occurred during March, 2021, and explains the context, literature review, goals, and plan.|
 |**Assessment Tracking-Test Coverage.md**|An association the study's assessment needs with testing criteria to yield results, with a rollup of the number of controls that each entry would satisfy from the original input IoT frameworks that acted as inspiration for the data to gather during the study.|
